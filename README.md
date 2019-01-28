@@ -1,0 +1,18 @@
+![springboot设计与实现解决](https://raw.githubusercontent.com/qiurunze123/imageall/master/springboot.png)
+
+> 邮箱 : [QiuRunZe_key@163.com](QiuRunZe_key@163.com)
+
+> Github : [https://github.com/qiurunze123](https://github.com/qiurunze123)
+
+> QQ : [3341386488](3341386488)
+
+> QQ群 :
+
+![整体流程](https://raw.githubusercontent.com/qiurunze123/imageall/master/qq.png)
+
+[![Travis](https://img.shields.io/badge/language-Java-yellow.svg)](https://github.com/qiurunze123)
+
+大家好，本文是对springboot的一系列研究!起因是，当你有一天望着一堆的xml无从下手的时候，我想时候改变了！相比大家都是从业经验丰富、身经百战的老司机。
+俗话说，前戏做的好，高潮少不了！springboot就是这么一个容易令人高潮的项目！轻量级容器--元信息编程--创新模式等等都令人爱不释手！本文将会对springboot
+`组件自动装配`、`Web应用`、`生产准备特性`、`Dubbo`、`ZK` 、`Maven`,`lua`进行
+深度剖析！
