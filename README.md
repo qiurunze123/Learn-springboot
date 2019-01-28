@@ -21,4 +21,4 @@
 ### springboot 核心特性
 
 #### 组件自动装配：
-      1.激活特性-- 
+[激活特性-- @EnableAutoConfiguration](/docs/@EnableAutoConfiguration.md)
