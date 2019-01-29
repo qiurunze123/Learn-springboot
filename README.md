@@ -20,5 +20,10 @@
 
 ### springboot 核心特性
 
-#### 组件自动装配：
-[激活特性-- @EnableAutoConfiguration](/docs/@EnableAutoConfiguration.md)
+#### spring FrameWork手动装配：
+[spring 模式注解装配原理 以及 如何实现一个注解的装配 ](/docs/@springannotations.md)
+
+
+[spring @Enable模块装配 ](/docs/@Enable.md)
+
+[spring 条件装配 Spring Framework 3.1 开始，允许在 Bean 装配时增加前置条件判断 ](/docs/@Bean.md)
