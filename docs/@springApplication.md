@@ -7,7 +7,7 @@
     springApplication.setAdditionalProfiles("prod");
     springApplication.setHeadless(true);
     
-    ②通过 SpringApplicationBuilder API 调整
+    ②通过 SpringApplicationBuilder API 调整 这种是一种流畅的 启动也很方便
     
      new SpringApplicationBuilder(DiveInSpringBootApplication.class)
     .bannerMode(Banner.Mode.CONSOLE)
