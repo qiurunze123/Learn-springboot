@@ -5,6 +5,7 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>spring-boot-learn1</module>
+		<module>spring-boot-learn2</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>

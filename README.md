@@ -37,3 +37,8 @@
 [自动装配举例](/docs/@springboot.md)
 
 [自动装配总结](/docs/@springbootAll.md)
+
+#### springApplication 精度分析
+
+[springApplication 准备阶段](/docs/@springApplication.md)
+
