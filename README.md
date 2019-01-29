@@ -30,7 +30,8 @@
 #### springboot 自动装配
 在springboot 场景下，基于约定大于配置的原则，实现spring组件的自动装配的目的！
 
-#####底层装配技术
+##### 底层装配技术
+
 [Spring 工厂加载机制](/docs/@springboot.md)
 
 [自动装配举例](/docs/@springboot.md)
