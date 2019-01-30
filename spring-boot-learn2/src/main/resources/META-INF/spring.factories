@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.geekq.springbootlearn2.configuration.HelloWorldAutoConfiguration
+com.geekq.springbootlearn3、.configuration.HelloWorldAutoConfiguration

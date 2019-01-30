@@ -1,0 +1,4 @@
+org.springframework.context.ApplicationListener=\
+com.geekq.learn3.listener.AfterHelloWorldApplicationListener,\
+com.geekq.learn3.listener.HelloWorldApplicationListener,\
+com.geekq.learn3.listener.BeforeConfigFileApplicationListener
